@@ -143,8 +143,4 @@ https://github.com/yarovit-developer/nuclei-templates
 https://github.com/yavolo/nuclei-templates
 https://github.com/z3bd/nuclei-templates
 https://github.com/zer0yu/Open-PoC
-https://github.com/zinminphyo0/KozinTemplates
-https://github.com/foulenzer/foulenzer-templates
-https://github.com/Nithissh0708/Custom-Nuclei-Templates
-https://github.com/ChiaraNRTT96/BountySkill
 https://github.com/bhataasim1/PersonalTemplates
