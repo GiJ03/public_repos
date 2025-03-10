@@ -138,8 +138,3 @@ https://github.com/toramanemre/log4j-rce-detect-waf-bypass
 https://github.com/trickest/log4j
 https://github.com/trungkay2/Nuclei-template
 https://github.com/wasp76b/nuclei-templates
-https://github.com/xinZa1/template
-https://github.com/yarovit-developer/nuclei-templates
-https://github.com/yavolo/nuclei-templates
-https://github.com/zer0yu/Open-PoC
-https://github.com/bhataasim1/PersonalTemplates
