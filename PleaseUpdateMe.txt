@@ -141,6 +141,5 @@ https://github.com/wasp76b/nuclei-templates
 https://github.com/xinZa1/template
 https://github.com/yarovit-developer/nuclei-templates
 https://github.com/yavolo/nuclei-templates
-https://github.com/z3bd/nuclei-templates
 https://github.com/zer0yu/Open-PoC
 https://github.com/bhataasim1/PersonalTemplates
